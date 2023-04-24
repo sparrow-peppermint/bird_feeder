@@ -3,7 +3,7 @@
 
 ## How to Play
 
-Make sure you have PyGame installed
-Run bird_feeder.py
-Use left and right arrow keys (or a and d) to move
-Press spacebar to throw seed
+Make sure you have PyGame installed<br>
+Run bird_feeder.py<br>
+Use left and right arrow keys (or a and d) to move<br>
+Press spacebar to throw seed<br>
